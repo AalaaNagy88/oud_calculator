@@ -1,0 +1,20 @@
+{
+    "width": "العرض",
+    "material": "الخام",
+    "title": "العنوان",
+    "sliver": "فضى",
+    "gold": "ذهبى",
+    "number": "العدد",
+    "calc_price": "احسب السعر",
+    "oud_prices": "أسعار الأعواد",
+    "oud_calculator": "حاسبة الأعواد",
+    "language": "اللغة",
+    "add_new_oud_price": "أضف سعر أعواد جديد",
+    "add": "أضف",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "cancel": "إلغاء",
+    "defaultt": "الإفتراضى",
+    "empty_message": "ليس هناك أسعار خاصه \n اضغط إضافة",
+    "delet_message": "هل أنت متأكد من حذف {title}"
+}

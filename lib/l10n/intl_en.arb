@@ -1,0 +1,20 @@
+{
+    "width": "Width",
+    "material": "Material",
+    "title": "Title",
+    "sliver": "Sliver",
+    "gold": "Gold",
+    "number": "Number",
+    "calc_price": "Calulate Price",
+    "oud_prices": "Oud Prices",
+    "oud_calculator": "Oud Calculator",
+    "language": "Language",
+    "add_new_oud_price": "Add New Oud Price",
+    "add": "Add New",
+    "edit": "Edit",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "defaultt": "Default",
+    "empty_message": "There is no special prices\n Click add ",
+    "delet_message": "Are you sure you want to delte {title}"
+}
